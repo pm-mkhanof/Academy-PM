@@ -1,0 +1,9 @@
+- version 0.0.0 - create a project at local Git and at GitHub.
+
+- version 0.0.0.1 - small update Readme.txt (info about project).
+
+- version 0.0.0.2 - midly update Readme.txt (info about project) (but not finally).
+
+- version 0.0.1 - start to develop site for project.
+
+- version 0.0.1_fix - create Version_log.txt (info about update in project)
